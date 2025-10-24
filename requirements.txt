@@ -13,3 +13,4 @@ rapidfuzz
 reportlab
 requests
 matplotlib
+gdown
